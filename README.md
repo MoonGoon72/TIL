@@ -8,6 +8,7 @@ iOS 개발자가 되기 위한 여정
 - [[01월 17일] 클로저 좀더 자세히 + 클론코딩](https://github.com/glass2300/TIL/blob/main/folder/0117TIL.md)
 - [[01월 19일] 클론코딩 복습하면서 SwiftUI 기억해야할 것](https://github.com/glass2300/TIL/blob/main/folder/0119TIL.md)
 - [[01월 24일] 예외처리](https://github.com/glass2300/TIL/blob/main/folder/0124TIL.md)
+- [[01월 26일] 메모리관리, 타입캐스팅](https://github.com/glass2300/TIL/blob/main/folder/0126TIL.md)
 
 ---
 # SwiftUI
